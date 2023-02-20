@@ -1,0 +1,15 @@
+.container {
+  width: 50vw;
+  margin: 1rem 1rem;
+  height: 99%;
+  overflow: scroll;
+}
+
+.listContainer {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem;
+}

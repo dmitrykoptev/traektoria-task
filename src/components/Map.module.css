@@ -1,0 +1,14 @@
+.priceContainer {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.spanName {
+  font-size: 1.4rem;
+}
+
+.spanPrice {
+  font-size: 1.4rem;
+  font-weight: 600;
+}
